@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ardent-gate-232815",
+  "private_key_id": "2dcb50461b9a9116acdfbe1a21f411cf3b022440",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDQYVViSLD0foiO\nZjD+ibfCcXxjwYBeFbVMxBA+3stCZ71ra0gWyyqgIpIMr2SecZwvOdT90Jl2Junw\n0tct/Xat3oJBeMFxnbovZd6p6UynPTRT0pbjgyzS6jL5cPjw0x3QrUOjepCBoNcQ\n1aLow8nbgYgsi6HpUJAglzsSoeDVKxM8+NYcAeGxIRskmVulxWsJuG3gMnKU9kqL\n0VFxn3mzmy0obbx4rsbT2L1fBn5YSPqTw1NMc8NHMu/vffUGziSC1xoIA+qbUOv3\nIegv0UDp83i8SXFjwtbYp+PvGIfXM8ooq0W6XcAFChn8BXTXfVer7KkuZh3Gim/Y\nOnYc4oCvAgMBAAECggEAJMRfx+kyi9k9p/6A+5B6I21ZuNI+H5ut8x8PDMDL1Wov\ngmIaBKeRXFLtOR7DXq+GEtEd8zDYuv+vvGW/QOadh50gl4PCghUF8nIDgTBgbYu/\njWC1bexJvudC2j9kNT3S32yK6C/qimzCNb60MWTGW5w11kJG7b9gxtdYPXfhj0rq\nIvNft6MmHqvlV5g36w6unl9GOMDzmXCwrnia0eUw7/wCOG9jedxSCwAUdfeXBbl8\nEYkeu8Wy1ayhhWLv6V8cs8VZGvNUTNrGYWAFMD4PeBGCCTXvQz6zD1QwugA/tnUE\ngNgBpFlbcbmHarEo48vQKDEGInsI25xi8nbcfFfwQQKBgQD6aFycLAasaHayyyMJ\nz9FpEACWJWplkjILj2gyyzNVnamOfO9eBMVE3GIyIKVaV1H4MgVWKIFH8kBttjff\neuSJx4ijFVyTy17Dvzw9Wf2RC7KC5pMJSYVroVVbxAXLUuJBDP8SUsGn0SUNe1+O\nfjtFgtD/lOcCh4fM1BIbSx0Y7wKBgQDVCLDu66JOBxoNak7vTTvdpQ/5d9/rZUyY\nWyWDU1MpRfmKeDqunHl/2zvMyLYnN81WghUe2U7uKBhfWuGRde2ndsZ4RQLEHiB3\nRaW9ml48pRTNcCQjKKoAhLPRoYxwUn2MTJOgktAzzsnIMFxR/NX9v6hj+Thds/xC\nc2tnFzuUQQKBgQDyKYkeUwllJGVeRUsuSvcWpq4ahjad4cNaIKbBMHgFnUKDlNkc\nUHrCPGsOVTnz4yxXXXCBwQw9ms6qCyV/j2aCxB+kr5znJS8RGNjV8DhjVC+fngKm\nYZ6Q1uYop6p+1joOdNYcT0IO3Bj8L8raj8McVwVtlf/OF2nCMXkNQhfyqwKBgCxK\n5E6om1RR0a7cXZEPo9TPjuS1cc8FfslmmgQV/QJl1B5gJQNM8U4ODP7k9EpvJbhI\nz49cazbFC1w4DxIpTMI2xckXwB16jhF+X5luUQ2W3R5hpIHS4JW/AYwiZIqt/ACB\no2gNXlCHPBjtRSSexvc9NAulM3z4AQjn6nrCr9aBAoGBAI1IwtpZyjJjwrdhVVZD\niELDqzyWX5x63jBckOI0v3LBkU8S9AyiOQ/yQ0I+bLZK0bxiCXoRqid8vq7+STnh\n/IEqZdyFun+zPeHDNV0OaZnKh5o1cUb7wSvMUumi7MEWmz6J3Q2zVfEEocW83AKJ\nVxJz/V5hchWmTWKRhOBRwWk7\n-----END PRIVATE KEY-----\n",
+  "client_email": "cerimusicrec@ardent-gate-232815.iam.gserviceaccount.com",
+  "client_id": "110024371883575887633",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cerimusicrec%40ardent-gate-232815.iam.gserviceaccount.com"
+}
