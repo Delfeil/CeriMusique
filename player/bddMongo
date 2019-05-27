@@ -1,0 +1,73 @@
+{
+	titre:,
+	artiste:,
+	album:,
+	path_musique,
+	path_image:
+}
+
+db.createCollection("musique", {autoIndexId : true})
+
+db.musique.insert({
+  "titre": "musique",
+  "artiste": "artiste",
+  "album": "album",
+  "path_musique": "/home/casanova/Documents/Master-ilsen/s2/Application-Architecture/Rendu/player/musicDB/artiste/album/musique.mp3",
+  "path_image": "/home/casanova/Documents/Master-ilsen/s2/Application-Architecture/Rendu/player/musicDB/artiste/album/cover.jpg"
+})
+
+db.musique.insert({
+  "titre": "grind",
+  "artiste": "emune",
+  "album": "la famille p1",
+  "path_musique": "/home/casanova/Documents/Master-ilsen/s2/Application-Architecture/Player/musicDB/emune/la_familia_pt_1/grind.mp3",
+  "path_image": ""
+})
+
+db.musique.insert({
+  "titre": "clint eastwood",
+  "artiste": "gorillaz",
+  "album": "gorillaz",
+  "path_musique": "/home/casanova/Documents/Master-ilsen/s2/Application-Architecture/Player/musicDB/gorillaz/gorillaz/clint_eastwood.mp3",
+  "path_image": "/home/casanova/Documents/Master-ilsen/s2/Application-Architecture/Player/musicDB/gorillaz/gorillaz/cover.jpg"
+})
+
+db.musique.insert({
+  "titre": "on melancholy hill",
+  "artiste": "gorillaz",
+  "album": "plastic beach",
+  "path_musique": "/home/casanova/Documents/Master-ilsen/s2/Application-Architecture/Player/musicDB/gorillaz/plastic_beach/on_melancholy_hill.mp3",
+  "path_image": "/home/casanova/Documents/Master-ilsen/s2/Application-Architecture/Player/musicDB/gorillaz/plastic_beach/cover.jpg"
+})
+
+db.musique.insert({
+  "titre": "lose yourself to dance",
+  "artiste": "daft punk",
+  "album": "random acces memory",
+  "path_musique": "/home/casanova/Documents/Master-ilsen/s2/Application-Architecture/Player/musicDB/daft_punk/random_acces_memory/lose_yourself_to_dance.mp3",
+  "path_image": "/home/casanova/Documents/Master-ilsen/s2/Application-Architecture/Player/musicDB/daft_punk/random_acces_memory/cover.jpg"
+})
+
+db.musique.insert({
+  "titre": "get lucky",
+  "artiste": "daft punk",
+  "album": "random acces memory",
+  "path_musique": "/home/casanova/Documents/Master-ilsen/s2/Application-Architecture/Player/musicDB/daft_punk/random_acces_memory/get_lucky.mp3",
+  "path_image": "/home/casanova/Documents/Master-ilsen/s2/Application-Architecture/Player/musicDB/daft_punk/random_acces_memory/cover.jpg"
+})
+
+db.musique.insert({
+  "titre": "le petit bonhome en mousse",
+  "artiste": "patrick sébastien",
+  "album": "pochette surprise",
+  "path_musique": "/home/casanova/Documents/Master-ilsen/s2/Application-Architecture/Player/musicDB/patrick_sebastien/pochette_surprise/mousse.mp3",
+  "path_image": "/home/casanova/Documents/Master-ilsen/s2/Application-Architecture/Player/musicDB/patrick_sebastien/pochette_surprise/pochette_surprise.jpg"
+})
+
+db.musique.insert({
+  "titre": "l'aventurier",
+  "artiste": "indochine",
+  "album": "l'aventurier",
+  "path_musique": "/home/casanova/Documents/Master-ilsen/s2/Application-Architecture/Player/musicDB/indochine/l'aventurier/l'aventurier.mp3",
+  "path_image": ""
+})
